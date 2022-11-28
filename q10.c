@@ -48,22 +48,3 @@ for (i=0;i<3;i++)
 
 return 0;
 }
-
-/*
-int max,i,j,loc;
-
-    for (i=0;i<n;i++)
-    {
-        max=a[i];
-        for (j=0;j<n;j++)
-        {
-            if (max<a[j])
-            {
-                max=a[j];
-            }
-        }
-    }
-    
-
-
-*/
